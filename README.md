@@ -6,7 +6,7 @@ This growing collection of data modeling examples from various domains will help
 2. Messaging Data Modeling
 3. Digital Library Data Modeling
 4. Investment Portfolio Data Modeling
-5. Time Series Data Modeling: [![Open in KataPod](https://gitpod.io/button/open-in-gitpod.svg)](https://katapod.datastaxtraining.com/#https://github.com/ArtemChebotko/time-series-data/)
+5. Time Series Data Modeling: [Open in Gitpod](https://katapod.datastaxtraining.com/#https://github.com/ArtemChebotko/time-series-data/)
 6. Shopping Cart Data Modeling
 7. Order Management Data Modeling
 
